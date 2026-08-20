@@ -1,3 +1,4 @@
+# DAMIAN
 # POC Gestión Computadoras
 
 Prueba de concepto (POC) en Java para la gestión de dispositivos electrónicos, enfocada en computadoras. La aplicación cuenta con una interfaz gráfica de escritorio (Swing) que permite registrar y listar computadoras, aplicando conceptos de programación orientada a objetos como herencia y polimorfismo.
